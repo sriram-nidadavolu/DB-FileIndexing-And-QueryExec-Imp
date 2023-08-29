@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/common/home/vsn9/Documents/db/CS539-Fall22-main working copy/CS539-Fall22-main working copy/include/b_plus_tree.h
+iostream
+-
+queue
+-
+string
+-
+vector
+-
+para.h
+/common/home/vsn9/Documents/db/CS539-Fall22-main working copy/CS539-Fall22-main working copy/include/para.h
+cmath
+-
+stack
+-
+
+/common/home/vsn9/Documents/db/CS539-Fall22-main working copy/CS539-Fall22-main working copy/include/para.h
+
+/common/home/vsn9/Documents/db/CS539-Fall22-main working copy/CS539-Fall22-main working copy/test/b_plus_tree_test.cpp
+../include/b_plus_tree.h
+/common/home/vsn9/Documents/db/CS539-Fall22-main working copy/CS539-Fall22-main working copy/include/b_plus_tree.h
+iostream
+-
+vector
+-
+

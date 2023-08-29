@@ -1,0 +1,6 @@
+/common/home/vsn9/Documents/db/CS539-Fall22-main working copy/CS539-Fall22-main working copy/build/CMakeFiles/edit_cache.dir
+/common/home/vsn9/Documents/db/CS539-Fall22-main working copy/CS539-Fall22-main working copy/build/CMakeFiles/rebuild_cache.dir
+/common/home/vsn9/Documents/db/CS539-Fall22-main working copy/CS539-Fall22-main working copy/build/CMakeFiles/bplustree-test.dir
+/common/home/vsn9/Documents/db/CS539-Fall22-main working copy/CS539-Fall22-main working copy/build/src/CMakeFiles/rebuild_cache.dir
+/common/home/vsn9/Documents/db/CS539-Fall22-main working copy/CS539-Fall22-main working copy/build/src/CMakeFiles/edit_cache.dir
+/common/home/vsn9/Documents/db/CS539-Fall22-main working copy/CS539-Fall22-main working copy/build/src/CMakeFiles/BPLUSTREE.dir

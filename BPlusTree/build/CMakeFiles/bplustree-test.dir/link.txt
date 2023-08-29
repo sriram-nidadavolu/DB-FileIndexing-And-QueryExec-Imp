@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3    CMakeFiles/bplustree-test.dir/test/b_plus_tree_test.cpp.o  -o bplustree-test  src/libBPLUSTREE.a 

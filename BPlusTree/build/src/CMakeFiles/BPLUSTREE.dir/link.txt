@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBPLUSTREE.a  CMakeFiles/BPLUSTREE.dir/b_plus_tree.cpp.o
+/usr/bin/ranlib libBPLUSTREE.a
